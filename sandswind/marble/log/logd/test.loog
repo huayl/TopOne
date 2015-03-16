@@ -1,0 +1,6 @@
+2015/02/05 22:09:54 [file.go:55 WriterMsgfmt()] ==== LConfig ====
+2015/02/05 22:09:54 [file.go:55 WriterMsgfmt()] =================AAAAAAAAAAAADSDS
+2015/02/05 22:47:54 [log.go:109 Error()] ==== LConfig ====
+2015/02/05 22:47:54 [log.go:109 Error()] =================AAAAAAAAAAAADSDS
+2015/02/05 22:48:28 [t.go:9 main()] ==== LConfig ====
+2015/02/05 22:48:28 [t.go:10 main()] =================AAAAAAAAAAAADSDS
